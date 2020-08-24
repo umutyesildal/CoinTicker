@@ -1,4 +1,4 @@
-# coin_fucker
+# coinTicker
 
 A new Flutter application.
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![HomePage](https://github.com/umutyesildal/coinTicker/blob/master/images/1.JPG)
+![BuySellDialog](https://github.com/umutyesildal/coinTicker/blob/master/images/2.JPG)
+![buySuccess](https://github.com/umutyesildal/coinTicker/blob/master/images/3.JPG)
+![sellSuccess](https://github.com/umutyesildal/coinTicker/blob/master/images/4.JPG)
