@@ -1,6 +1,6 @@
 # coinTicker
 
-A new Flutter application.
+Cointicker is a virtual wallet where you can track your coins worth and see your profit!.
 
 ## Getting Started
 
